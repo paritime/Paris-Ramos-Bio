@@ -43,5 +43,5 @@ Antes de centrarme en el código, lideré estrategias de datos a gran escala:
 ### 📫 Contáctame
 
 * **LinkedIn:** [[Tu Link Aquí]](https://www.linkedin.com/in/parisramosarc/)
-* **Portafolio:** [Tu Web/Portfolio Aquí]
-* **Email:** [Tu Email Aquí]
+* **Portafolio:** [Sitio web](https://sites.google.com/view/parisramos-portafolio?usp=sharing)
+* **Email:** parisarc@gmail.com
