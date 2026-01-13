@@ -25,7 +25,7 @@ Plataforma de inteligencia agrícola y riesgo crediticio.
 * **El Reto:** Convertir lógica de negocio compleja (zona geográfica, cultivo, hectáreas) en un score de riesgo automatizado.
 * **Tech:** Django, PostgreSQL, Bootstrap.
 
-**🛒 [E-commerce Scraper & Analysis](Link_al_repo)** | *Automation & Data Analysis*
+**🛒 [E-commerce Scraper & Analysis]((https://github.com/paritime/pandas-scrapy))** | *Automation & Data Analysis*
 Pipeline de extracción masiva de datos para una florería online.
 * **Impacto:** Reducción del **25% en costos variables** mediante comparativa de precios en tiempo real.
 * **Tech:** Selenium, Scrapy, Matplotlib.
