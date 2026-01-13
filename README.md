@@ -10,25 +10,20 @@ Mi enfoque no es solo escribir código, sino resolver problemas de negocio compl
 
 ### 🛠 Tech Stack
 
-* **Lenguajes:** Python (Avanzado), SQL, JavaScript.
+* **Lenguajes:** Python (Avanzado) y SQL
 * **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib.
-* **Web & Backend:** Django, Flask, HTML5, CSS3, Bootstrap.
-* **Herramientas:** Git, Docker, Tableau, Selenium, Scrapy.
+* **Web & Backend:** Django,  HTML5, CSS3, Bootstrap.
+* **Herramientas:** Git, Looker Studio, Selenium, Scrapy, PostgreSQL.
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-**🌾 [AgroCredit Pulse](Link_al_repo)** | *Full Stack (Django/Python)*
+**🌾 [AgroCredit Pulse](demo)** | *Full Stack (Django/Python)*
 Plataforma de inteligencia agrícola y riesgo crediticio.
 * **La Solución:** Digitaliza la evaluación de créditos agrícolas mediante un algoritmo propio.
 * **El Reto:** Convertir lógica de negocio compleja (zona geográfica, cultivo, hectáreas) en un score de riesgo automatizado.
 * **Tech:** Django, PostgreSQL, Bootstrap.
-
-**📉 [Churn Prediction Model](Link_al_repo)** | *Machine Learning*
-Modelo de clasificación para predecir la fuga de clientes.
-* **Resultado:** 88% de precisión (Accuracy/F1-Score) para apoyar estrategias de retención.
-* **Tech:** Scikit-learn, Pandas, Análisis Exploratorio de Datos (EDA).
 
 **🛒 [E-commerce Scraper & Analysis](Link_al_repo)** | *Automation & Data Analysis*
 Pipeline de extracción masiva de datos para una florería online.
@@ -47,6 +42,6 @@ Antes de centrarme en el código, lideré estrategias de datos a gran escala:
 
 ### 📫 Contáctame
 
-* **LinkedIn:** [Tu Link Aquí]
+* **LinkedIn:** [[Tu Link Aquí]](https://www.linkedin.com/in/parisramosarc/)
 * **Portafolio:** [Tu Web/Portfolio Aquí]
 * **Email:** [Tu Email Aquí]
