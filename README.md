@@ -19,7 +19,7 @@ Mi enfoque no es solo escribir código, sino resolver problemas de negocio compl
 
 ### 🚀 Proyectos Destacados
 
-**🌾 [AgroCredit Pulse](demo)** | *Full Stack (Django/Python)*
+**🌾 [AgroCredit Pulse](https://github.com/paritime/djangocrud)** | *Full Stack (Django/Python)*
 Plataforma de inteligencia agrícola y riesgo crediticio.
 * **La Solución:** Digitaliza la evaluación de créditos agrícolas mediante un algoritmo propio.
 * **El Reto:** Convertir lógica de negocio compleja (zona geográfica, cultivo, hectáreas) en un score de riesgo automatizado.
